@@ -12,6 +12,7 @@ women++
 1. Be prepared to work late into the night
 2. Dress professionally
 3. Ignore the diet; eat the pizza
+4. Always. Be. Hacking.
 
 ---
 
@@ -36,7 +37,7 @@ Know yourself and know it is OK to check out early; you do not need to be the on
 
 - Use Discord, Mattermost, Matrix, Signal etc to coordinate and chat
 
-- (It is not wrong to share ideas in a hackathon wide chat as well)
+    - (It is not wrong to share ideas in a hackathon wide chat as well)
 
 - Overcommunicate (it is better that everyone knows what you are doing; lone working is not ideal)
 
@@ -45,25 +46,33 @@ Know yourself and know it is OK to check out early; you do not need to be the on
 ## The Solution is in the Problem
 
 - Do not jump into code immediately
-- Ignore your first thoughts (often that is in areas you know or are comfortable with)
-- Look at the info available (any research/data available)
+
+- Ignore your first thoughts (often it is in areas you know or are comfortable with)
+
+- Look at the info available (any research/data available or interviews?)
 
 ---
 
 ## Do Not Get Stuck in a Rabbit Hole
 
 - If it is not working, you do not have to fix it just because you have been working on it for 6 hours
+
 - Treat the hackathon as a scratch pad for ideas and experimentation
 
+- The best idea is not the best idea; it is the best one you can implement in a weekend
 
 ---
 
 ## Don't Just Hack
 
 - Use the hackathon for all that it is
-- Workshops, talks, network, eat, sleep, yoga
+
+- Workshops, talks, **network**, eat, sleep, yoga etc
+
 - You are giving up your time, some pressure is part of the fun 
+
 BUT
+
 - If it is not fun, it is not worth doing
 
 ---
@@ -71,7 +80,10 @@ BUT
 ## Prep and Prep Some More
 
 - Read up on tools/tech you expect to use
+    - Sign up for accounts ahead of time, [use the free tier!](https://free-for.dev/#/)
+
 - It is not all about coding and it is not only for coders
+
 - Design, accessibility, management etc all have roles to play
 
 
@@ -80,9 +92,14 @@ BUT
 ## Your Code Does Not Speak For Itself
 
 - Showing source code might impress technical attendees but it rarely wins prizes
-- Always. Be. Presenting
+
+- Always. Be. Presenting.
+
 - Start the presentation at the same time as your code
-- No functionality? Does not build? FAKE IT
+
+    - Note down key points as you discuss/develop
+
+- No functionality? Does not build? FAKE IT (but not all of it)
 
 ---
 
