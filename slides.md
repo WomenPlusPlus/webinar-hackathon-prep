@@ -1,7 +1,11 @@
 ---
-marp: true
----
 
+marp: true
+theme: gaia
+class: invert
+
+---
+<!-- _class: lead -->
 # Preparing for a Hackathon
 
 Chris Gwilliams
@@ -128,7 +132,7 @@ BUT
 
 ## We Are Here For You
 
-- [Community](SLACK LINK)
+- [Community](https://join.slack.com/t/womenplusplus/shared_invite/zt-1w5t7t7av-RpMRsLJ~jrc0slB2mY1Jjg)
 - [Hackathon Survival Kit](https://github.com/WomenPlusPlus/hackathon-survival-kit)
 - [Web](https://womenplusplus.ch)
 - [Email us](mailto:hello@womenplusplus.ch)
