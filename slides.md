@@ -37,7 +37,7 @@ Know yourself and know it is OK to check out early; you do not need to be the on
 
 ## Be A Team and Know Your Team
 
-- If you can make a team before: try to do that!
+- If you can make a team before: try to do that!!!
 
 - Use Discord, Mattermost, Matrix, Signal etc to coordinate and chat
 
